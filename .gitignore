@@ -1,0 +1,6 @@
+# Directories
+target
+
+# Files
+**/*.rs.bk
+Cargo.lock

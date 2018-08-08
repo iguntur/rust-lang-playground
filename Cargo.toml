@@ -1,0 +1,6 @@
+[package]
+name = "rlp"
+version = "0.1.0"
+authors = ["Guntur <poetra.guntur@gmail.com>"]
+
+[dependencies]
